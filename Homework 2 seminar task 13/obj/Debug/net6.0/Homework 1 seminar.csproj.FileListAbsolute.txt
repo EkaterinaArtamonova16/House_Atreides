@@ -1,0 +1,15 @@
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 2 seminar task 13/obj/Debug/net6.0/Homework 1 seminar.csproj.AssemblyReference.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 2 seminar task 13/obj/Debug/net6.0/Homework 1 seminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 2 seminar task 13/obj/Debug/net6.0/Homework 1 seminar.AssemblyInfoInputs.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 2 seminar task 13/obj/Debug/net6.0/Homework 1 seminar.AssemblyInfo.cs
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 2 seminar task 13/obj/Debug/net6.0/Homework 1 seminar.csproj.CoreCompileInputs.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 2 seminar task 13/bin/Debug/net6.0/Homework 1 seminar
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 2 seminar task 13/bin/Debug/net6.0/Homework 1 seminar.deps.json
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 2 seminar task 13/bin/Debug/net6.0/Homework 1 seminar.runtimeconfig.json
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 2 seminar task 13/bin/Debug/net6.0/Homework 1 seminar.dll
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 2 seminar task 13/bin/Debug/net6.0/Homework 1 seminar.pdb
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 2 seminar task 13/obj/Debug/net6.0/Homework 1 seminar.dll
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 2 seminar task 13/obj/Debug/net6.0/refint/Homework 1 seminar.dll
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 2 seminar task 13/obj/Debug/net6.0/Homework 1 seminar.pdb
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 2 seminar task 13/obj/Debug/net6.0/Homework 1 seminar.genruntimeconfig.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 2 seminar task 13/obj/Debug/net6.0/ref/Homework 1 seminar.dll
