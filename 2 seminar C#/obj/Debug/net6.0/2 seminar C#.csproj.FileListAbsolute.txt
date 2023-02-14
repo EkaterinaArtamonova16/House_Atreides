@@ -1,0 +1,15 @@
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/2 seminar C#/obj/Debug/net6.0/2 seminar C#.csproj.AssemblyReference.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/2 seminar C#/obj/Debug/net6.0/2 seminar C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/2 seminar C#/obj/Debug/net6.0/2 seminar C#.AssemblyInfoInputs.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/2 seminar C#/obj/Debug/net6.0/2 seminar C#.AssemblyInfo.cs
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/2 seminar C#/obj/Debug/net6.0/2 seminar C#.csproj.CoreCompileInputs.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/2 seminar C#/bin/Debug/net6.0/2 seminar C#
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/2 seminar C#/bin/Debug/net6.0/2 seminar C#.deps.json
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/2 seminar C#/bin/Debug/net6.0/2 seminar C#.runtimeconfig.json
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/2 seminar C#/bin/Debug/net6.0/2 seminar C#.dll
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/2 seminar C#/bin/Debug/net6.0/2 seminar C#.pdb
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/2 seminar C#/obj/Debug/net6.0/2 seminar C#.dll
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/2 seminar C#/obj/Debug/net6.0/refint/2 seminar C#.dll
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/2 seminar C#/obj/Debug/net6.0/2 seminar C#.pdb
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/2 seminar C#/obj/Debug/net6.0/2 seminar C#.genruntimeconfig.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/2 seminar C#/obj/Debug/net6.0/ref/2 seminar C#.dll
