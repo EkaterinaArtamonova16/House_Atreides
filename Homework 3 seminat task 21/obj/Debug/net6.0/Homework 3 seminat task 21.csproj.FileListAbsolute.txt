@@ -1,0 +1,15 @@
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminat task 21/bin/Debug/net6.0/Homework 3 seminat task 21
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminat task 21/bin/Debug/net6.0/Homework 3 seminat task 21.deps.json
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminat task 21/bin/Debug/net6.0/Homework 3 seminat task 21.runtimeconfig.json
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminat task 21/bin/Debug/net6.0/Homework 3 seminat task 21.dll
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminat task 21/bin/Debug/net6.0/Homework 3 seminat task 21.pdb
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminat task 21/obj/Debug/net6.0/Homework 3 seminat task 21.csproj.AssemblyReference.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminat task 21/obj/Debug/net6.0/Homework 3 seminat task 21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminat task 21/obj/Debug/net6.0/Homework 3 seminat task 21.AssemblyInfoInputs.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminat task 21/obj/Debug/net6.0/Homework 3 seminat task 21.AssemblyInfo.cs
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminat task 21/obj/Debug/net6.0/Homework 3 seminat task 21.csproj.CoreCompileInputs.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminat task 21/obj/Debug/net6.0/Homework 3 seminat task 21.dll
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminat task 21/obj/Debug/net6.0/refint/Homework 3 seminat task 21.dll
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminat task 21/obj/Debug/net6.0/Homework 3 seminat task 21.pdb
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminat task 21/obj/Debug/net6.0/Homework 3 seminat task 21.genruntimeconfig.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminat task 21/obj/Debug/net6.0/ref/Homework 3 seminat task 21.dll
