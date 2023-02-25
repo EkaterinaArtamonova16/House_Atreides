@@ -1,0 +1,15 @@
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/bin/Debug/net6.0/Homework 3 seminar task 23
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/bin/Debug/net6.0/Homework 3 seminar task 23.deps.json
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/bin/Debug/net6.0/Homework 3 seminar task 23.runtimeconfig.json
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/bin/Debug/net6.0/Homework 3 seminar task 23.dll
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/bin/Debug/net6.0/Homework 3 seminar task 23.pdb
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/obj/Debug/net6.0/Homework 3 seminar task 23.csproj.AssemblyReference.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/obj/Debug/net6.0/Homework 3 seminar task 23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/obj/Debug/net6.0/Homework 3 seminar task 23.AssemblyInfoInputs.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/obj/Debug/net6.0/Homework 3 seminar task 23.AssemblyInfo.cs
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/obj/Debug/net6.0/Homework 3 seminar task 23.csproj.CoreCompileInputs.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/obj/Debug/net6.0/Homework 3 seminar task 23.dll
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/obj/Debug/net6.0/refint/Homework 3 seminar task 23.dll
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/obj/Debug/net6.0/Homework 3 seminar task 23.pdb
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/obj/Debug/net6.0/Homework 3 seminar task 23.genruntimeconfig.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/obj/Debug/net6.0/ref/Homework 3 seminar task 23.dll

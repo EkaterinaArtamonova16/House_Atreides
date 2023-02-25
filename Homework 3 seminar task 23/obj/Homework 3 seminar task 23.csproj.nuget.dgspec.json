@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminar task 23/Homework 3 seminar task 23.csproj": {}
+    "/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/Homework 3 seminar task 23.csproj": {}
   },
   "projects": {
-    "/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminar task 23/Homework 3 seminar task 23.csproj": {
+    "/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/Homework 3 seminar task 23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminar task 23/Homework 3 seminar task 23.csproj",
+        "projectUniqueName": "/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/Homework 3 seminar task 23.csproj",
         "projectName": "Homework 3 seminar task 23",
-        "projectPath": "/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminar task 23/Homework 3 seminar task 23.csproj",
+        "projectPath": "/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/Homework 3 seminar task 23.csproj",
         "packagesPath": "/Users/ekaterinaartamonova/.nuget/packages/",
-        "outputPath": "/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/Homework 3 seminar task 23/obj/",
+        "outputPath": "/Users/ekaterinaartamonova/Desktop/C# 2/House_Atreides/House_Atreides/Homework 3 seminar task 23/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ekaterinaartamonova/.nuget/NuGet/NuGet.Config"

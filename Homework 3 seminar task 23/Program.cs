@@ -3,4 +3,18 @@
 // 3 -> 1, 8, 27
 // 5 -> 1, 8, 27, 64, 125
 
-Console.WriteLine("Hello, World!");
+static int Prompt(string message)
+{
+    Console.WriteLine(message);
+    int result = Convert.ToInt32(Console.ReadLine());
+    return result;
+}
+
+Console.Clear();
+int answer = Prompt("Input number");
+
+for (int i = 1; i <= answer; i++)
+{
+    Console.WriteLine($"{i*i*i}\t");
+}
+Console.ReadLine();
